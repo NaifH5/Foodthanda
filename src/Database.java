@@ -12,8 +12,8 @@ public class Database
     public ResultSet rs;
     public PreparedStatement ps;
     
-    String path1 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\";
-    String path2 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\defaultFoodIcon.png";
+    String path1 = "images\\";
+    String path2 = "images\\defaultFoodIcon.png";
 
     public void setConnection()
     {

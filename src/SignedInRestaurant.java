@@ -46,9 +46,9 @@ public class SignedInRestaurant extends JFrame
         Database database2 = new Database();
         String RestaurantName = database.getRestaurantName(email);
         
-        String path1 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\addImageIcon.png";
-        String path2 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\defaultFoodIcon.png";
-        String path3 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\editImageIcon.png";
+        String path1 = "images\\addImageIcon.png";
+        String path2 = "images\\defaultFoodIcon.png";
+        String path3 = "images\\editImageIcon.png";
 
         Font Font_1 = new Font("Arial", Font.BOLD, 50);
         Font Font_2 = new Font("Arial", Font.BOLD, 20);

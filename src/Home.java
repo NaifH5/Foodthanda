@@ -18,7 +18,7 @@ public class Home extends JFrame
         setResizable(false);
         setTitle("FoodThanda");
         
-        String path1 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\Logo.png";
+        String path1 = "images\\Logo.png";
 
         Font Font_1 = new Font("Arial", Font.BOLD, 106);
         Font Font_2 = new Font("Arial", Font.BOLD, 27);

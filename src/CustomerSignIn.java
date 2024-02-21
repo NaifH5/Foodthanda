@@ -21,9 +21,9 @@ public class CustomerSignIn extends JFrame
 		 setResizable(false);
 		 setTitle("FoodThanda");
 		 
-		 String path1 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\Home_icon.png";
-		 String path2 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\Logo.png";
-		 String path3 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\Background.png";
+		 String path1 = "images\\Home_icon.png";
+		 String path2 = "images\\Logo.png";
+		 String path3 = "images\\Background.png";
 		 
 		 Database database = new Database();
 		 

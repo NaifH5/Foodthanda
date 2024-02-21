@@ -21,9 +21,9 @@ public class RestaurantSignIn extends JFrame
 		 setResizable(false);
 		 setTitle("FoodThanda");
 		 
-		 String path1 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\Home_icon.png";
-		 String path2 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\Logo.png";
-		 String path3 = "C:\\Users\\Msi\\Desktop\\OOP Project\\Images\\Background.png";
+		 String path1 = "images\\Home_icon.png";
+		 String path2 = "images\\Logo.png";
+		 String path3 = "images\\Background.png";
 		 
 		 Font Font_1 = new Font("Arial", Font.BOLD, 45);
 		 Font Font_2 = new Font("Arial", Font.BOLD, 23);
