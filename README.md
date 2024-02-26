@@ -7,18 +7,22 @@ The purpose of this application was to learn and to be able to implement feature
 * validation
 * inserting, updating, deleting and reading data from the database
 
-## Screenshots
+### Screenshots
 
 ![Screenshots](https://github.com/NaifH5/Foodthanda/assets/95228176/f4ae6cea-0482-4ced-8f9e-8edac70ef054)
 
-## Validation
+### Validation
 
 This application mostly uses Regex to make sure the user inputs valid information to avoid database errors.
 
 ![Validation](https://github.com/NaifH5/Foodthanda/assets/95228176/295b48e8-2a75-4f47-b872-909b9f4db230)
 
-## Database
+### Database
 
 MySQL Database was used to store user information and customer orders.
+
+**ER Diagram:**
+
+![ER_Diagram](https://github.com/NaifH5/Foodthanda/assets/95228176/9855c4fc-2dbd-4f61-a3fe-ff6e54922015)
 
 ![Database](https://github.com/NaifH5/Foodthanda/assets/95228176/86e46de3-26bc-45b6-bfbf-a1442bf0892d)
